@@ -15,7 +15,6 @@
 
 # 🌐 Socials
 
-##### Linkedin
 [![LinkedIn](https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465 "LinkedIn")](https://in.linkedin.com/in/kaleshrikant "LinkedIn")
 
 
