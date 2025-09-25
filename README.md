@@ -30,7 +30,7 @@
 
 ![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleshrikant&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaleshrikant)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaleshrikant&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleshrikant&layout=compact&show_icons=true&theme=radical)
 
